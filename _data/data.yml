@@ -86,7 +86,7 @@ education:
           my comprehension and excel in both academic and professional endeavors.
 
 experiences:
-    title: Professional Experiences
+    title: Experiences
     info:
       - role: Associate Systems Engineer
         time: September 2023 - PRESENT
@@ -120,9 +120,6 @@ experiences:
             - Underwent rigorous flight training and demonstrated keen understanding of aviation principles.
             - Assisted in recruitment campaigns, showcasing the benefits and opportunities within the aviation sector.
             - Chartered personnel from Jamara Fruit.
-experiences:
-    title: Volunteer Experience
-    info:
       - role: Volunteer
         time: 2019 - 2022
         company: Red Cross, Orange County
