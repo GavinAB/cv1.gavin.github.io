@@ -105,10 +105,31 @@ experiences:
             - Completed structral and electrical analysis of prototype call points.
       - role: Technical Assistant
         time: April 2023 - PRESENT
-        company: Amazon, London
+        company: Birdi Systems, Inc., Pasadena
         details: |
             - Assisted in drafting, reviewing, and finalizing proposals for various projects.
             - Assisted in drafting, reviewing, and finalizing presentations for various projects.
+      - role: Volunteer
+        time: 2019 - 2022
+        company: Red Cross, Orange County
+        details: |
+            - Assisted with blood drives, outreach events, community service operations, among other activities.
+      - role: Volunteer
+        time: 2017 - 2018
+        company: Salvation Army, Orange County
+        details: |
+            - Assisted with preparing rooms, cleaning facilities, orienting guests, and preparing meals.
+      - role: Volunteer
+        time: 2023 - 2023
+        company: Los Angeles Food Bank, Los Angeles
+        details: |
+            - Assisted with preparing meals and distributing food to LA county.
+      - role: Volunteer
+        time: 2022 - 2024
+        company: Bear Canyon Trail Crew
+        details: |
+            - Trail restoration.
+
 
 skills:
     title: Skills &amp; Proficiency
