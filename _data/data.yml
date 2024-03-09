@@ -86,7 +86,7 @@ education:
           my comprehension and excel in both academic and professional endeavors.
 
 experiences:
-    title: Experiences
+    title: Professional Experiences
     info:
       - role: Associate Systems Engineer
         time: September 2023 - PRESENT
@@ -109,6 +109,20 @@ experiences:
         details: |
             - Assisted in drafting, reviewing, and finalizing proposals for various projects.
             - Assisted in drafting, reviewing, and finalizing presentations for various projects.
+        time: 2021 - 2021
+        company: Santiago Retreat Center, Orange County
+        details: |
+            - Organized and prepared event activities.
+            - Assisted with day to day operations including cooking, cleaning, and room preparation.
+        time: 2021 - 2023
+        company: Riter Aviation, Yucaipa
+        details: |
+            - Underwent rigorous flight training and demonstrated keen understanding of aviation principles.
+            - Assisted in recruitment campaigns, showcasing the benefits and opportunities within the aviation sector.
+            - Chartered personnel from Jamara Fruit.
+experiences:
+    title: Volunteer Experience
+    info:
       - role: Volunteer
         time: 2019 - 2022
         company: Red Cross, Orange County
