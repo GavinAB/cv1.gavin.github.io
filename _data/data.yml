@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://gavinab.com/assets/downloads/resume.pdf
 
     languages:
       title: Languages
@@ -60,7 +60,7 @@ career-profile:
       Electrical Engineering student with experience in systems engineering,
       prototype design, and patent research. Proven track record of leading 
       projects, drafting proposals, and facilitating organizational operations.
-      [Download a copy of my Resume]()
+      [Download a copy of my Resume](https://gavinab.com/assets/downloads/resume.pdf)
 education:
     title: Education
     info:
